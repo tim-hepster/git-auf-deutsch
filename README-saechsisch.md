@@ -1,11 +1,11 @@
 # Git auf Deutsch (Säggssch)
 
-Die däschliche gommunigation in deutschen Endwiglungsteams, in den `git` 
-(übersetzt: `Schwachkopf`) eigesetzt werd, is sehr oft Denglish. 
+Die däschliche Gommunigation in deudschen Endwiglungsteams, in den `git` 
+(ibersetzt: `Blinse`) eigesetzt werd, is sehr oft Denglish. 
 _"Kannste ma bulln"_ oder _"Haste gebuschd"_ sin nur zwee
 dor seltsam klingden Ausdrigge.
 
-Git auf Deutsch (Säggssch) schafft Abhilfe!
+Git off Deudsch (Säggssch) ziehd die Karre ausm Mist!
 
 ## Vorschläsche
 
@@ -24,15 +24,15 @@ Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
 | tag         | tagen              | margiern               |
 | cherry-pick | cherry-picken      | de Rosinen rausglaum   |
 
-| Substantiv   | Aktueller Gebrauch | Vorschlach    |
-|--------------|--------------------|---------------|
-| git          | git                | Blinse        |
-| repository   | repo               | Laacherschdädde  |
-| branch       | branch             | Zweesch       |
-| commit       | commit             | Iebergabe     |
-| pull request | pull request       | Nimmdasanfrache  |
-| stash        | stash              | Buchde      |
-| tag          | tag                | Margierer    |
+| Substantiv   | Aktueller Gebrauch | Vorschlach        |
+|--------------|--------------------|-------------------|
+| git          | git                | Blinse            |
+| repository   | repo               | Laacherschdädde   |
+| branch       | branch             | Zweesch           |
+| commit       | commit             | Iebergabe         |
+| pull request | pull request       | Nimmdasanfrache   |
+| stash        | stash              | Buchde            |
+| tag          | tag                | Margierer         |
 
 ## Beispiele
 
@@ -44,7 +44,7 @@ Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
 
     - Am besten mier glaum uns de Rosin ausm Meisterzweesch.
 
-## Git auf Deutsch (Säggssch) anwenden
+## Git off Deutsch (Säggssch) anwenden
 
 Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
 in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
