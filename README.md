@@ -61,7 +61,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Nein, drücke das gleich zum Meister im Ursprung!
     
-    - Du kannst in der Deppenbeschuldigung sehen, wer das gändert hat.
+    - Du kannst in der Deppenbeschuldigung sehen, wer das geändert hat.
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
 
