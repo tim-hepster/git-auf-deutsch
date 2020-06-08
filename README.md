@@ -30,6 +30,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | tag         | taggen             | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
+| squash      | squashen           | quetschen             |
 
 Hier noch einige (zum Teil nicht ganz ernste)
 
