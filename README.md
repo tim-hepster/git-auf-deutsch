@@ -71,6 +71,8 @@ Hier noch einige (zum Teil nicht ganz ernste)
     - Am besten wir picken uns die Rosinen aus dem Meisterzweig heraus.
 
     - Gabeln Sie auf Deppendrehkreuz!
+    
+    - Wenn du fertig bist, dann kannst du das Ziehbegehren sofort quetschen und zusammenführen.
 
 ## Depp auf Deutsch anwenden
 
