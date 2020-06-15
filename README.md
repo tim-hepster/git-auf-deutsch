@@ -13,9 +13,9 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 | Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
-| init        | initten            | eröffnen               |
+| init        | initten            | eröffnen              |
 | add         | adden              | hinzufügen            |
-| blame       | blamen             | beschuldigen        |
+| blame       | blamen             | beschuldigen          |
 | pull        | pullen             | ziehen                |
 | push        | pushen             | schieben              |
 | clone       | clonen             | nachmachen            |
@@ -23,7 +23,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | branch      | branchen           | abzweigen             |
 | commit      | commiten           | festlegen             |
 | rebase      | rebasen            | (neu) erden           |
-| diff         | diffen              | unterscheiden         |
+| diff        | diffen             | unterscheiden         |
 | merge       | mergen             | zusammenführen        |
 | fork        | forken             | abspalten             |
 | stash       | stashen            | verstecken            |
@@ -52,7 +52,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | status        | status             | Zustand                    |
 | tag           | tag                | Markierung                 |
 | origin        | origin             | Ursprung                   |
-| master        | master             | Meister                    |
+| main          | main               | Haupt                      |
 
 ## Beispiele
 
@@ -60,7 +60,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
-    - Nein, drücke das gleich zum Meister im Ursprung!
+    - Nein, drücke das gleich zum Hauptzweig im Ursprung!
     
     - Du kannst in der Deppenbeschuldigung sehen, wer das geändert hat.
 
@@ -68,7 +68,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
 
-    - Am besten wir picken uns die Rosinen aus dem Meisterzweig heraus.
+    - Am besten wir picken uns die Rosinen aus dem Hauptzweig heraus.
 
     - Gabeln Sie auf Deppendrehkreuz!
     
