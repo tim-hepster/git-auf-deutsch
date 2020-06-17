@@ -52,6 +52,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | status        | status             | Zustand                    |
 | tag           | tag                | Markierung                 |
 | origin        | origin             | Ursprung                   |
+| master        | master             | Meister                    |
 | main          | main               | Haupt                      |
 
 ## Beispiele
@@ -60,7 +61,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
-    - Nein, drücke das gleich zum Hauptzweig im Ursprung!
+    - Nein, drücke das gleich zum Meister im Ursprung!
     
     - Du kannst in der Deppenbeschuldigung sehen, wer das geändert hat.
 
