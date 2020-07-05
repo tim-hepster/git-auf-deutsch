@@ -39,7 +39,7 @@ Lo kummen ewei zwo Tabelle mit Vorschläsch fia jeden Daach
 | bitbucket     | bitbucket          | Eifeltee-eemer    |
 | repository    | repo               | Laga              |
 | branch        | branch             | Aschd             |
-| commit        | commit             | Üwagab            |
+| commit        | commit             | Iwwagab           |
 | pull request  | pull request       | Zihhanfroh        |
 | merge request | merge request      | Sesammeleeanfroh  |
 | stash         | stash              | Bunga             |
