@@ -4,7 +4,7 @@ git config --local alias.machnach clone
 git config --local alias.zieh pull
 git config --local alias.fueghinzu add
 git config --local alias.drueck push
-git config --local alias.pfusch push --force
+git config --local alias.pfusch push --force-with-lease
 git config --local alias.zweig branch
 git config --local alias.verzweige branch
 git config --local alias.uebergib commit
