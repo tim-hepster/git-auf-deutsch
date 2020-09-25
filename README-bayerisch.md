@@ -72,7 +72,7 @@ Wer den nextn Schrid macha mog, do is a Anleitung, de Doldi auf Boarisch in Dei 
     git config --global alias.ziang pull
     git config --global alias.dazuadoa add
     git config --global alias.drucka push
-    git config --global alias.pfusch push --force
+    git config --global alias.pfusch 'push --force'
     git config --global alias.zwoagal branch
     git config --global alias.uebergem commit
     git config --global alias.neimacha rebase
