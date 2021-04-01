@@ -73,7 +73,7 @@ Wer's konsekwent mache mog, do isch a Olaidung, wia mr Seggl auf Schwäbisch au 
     git config --global alias.ziag pull
     git config --global alias.duedrzue add
     git config --global alias.drigg push
-    git config --global alias.driggfeschdr push --force
+    git config --global alias.driggfeschdr 'push --force'
     git config --global alias.aeschdle branch
     git config --global alias.ibergib commit
     git config --global alias.schdabel rebase
