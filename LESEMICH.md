@@ -25,8 +25,8 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | rebase      | rebasen            | (neu) erden           |
 | diff        | diffen             | unterscheiden         |
 | merge       | mergen             | zusammenführen        |
-| fork        | forken             | abspalten             |
-| stash       | stashen            | verstecken            |
+| fork        | forken             | abzweigen             |
+| stash       | stashen            | verstauen             |
 | tag         | taggen             | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
