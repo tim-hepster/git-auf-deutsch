@@ -69,7 +69,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
 
-    - Am besten wir picken uns die Kirschen aus dem Hauptzweig heraus.
+    - Am besten wir picken uns die Rosinen aus dem Hauptzweig heraus.
 
     - Gabeln Sie auf Deppendrehkreuz!
     
