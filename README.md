@@ -28,7 +28,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | fork        | forken             | abspalten             |
 | stash       | stashen            | verstecken            |
 | tag         | taggen             | markieren             |
-| cherry-pick | cherry-picken      | Kirschen herauspicken |
+| cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | ausbuchen             |
 | squash      | squashen           | quetschen             |
 
