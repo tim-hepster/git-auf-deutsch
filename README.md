@@ -21,7 +21,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | clone       | clonen             | nachmachen            |
 | fetch       | fetchen            | holen                 |
 | branch      | branchen           | abzweigen             |
-| commit      | commiten           | festlegen             |
+| commit      | commiten           | einbuchen             |
 | rebase      | rebasen            | (neu) erden           |
 | diff        | diffen             | unterscheiden         |
 | merge       | mergen             | zusammenführen        |
@@ -29,7 +29,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | stash       | stashen            | verstauen             |
 | tag         | taggen             | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
-| checkout    | checkouten         | nehmen                |
+| checkout    | checkouten         | ausbuchen             |
 | squash      | squashen           | quetschen             |
 
 Hier noch einige (zum Teil nicht ganz ernste)
@@ -42,9 +42,9 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | gitea         | gitea              | Deppentee                  |
 | blame         | blame              | Deppenbeschuldigung        |
 | bitbucket     | bitbucket          | Gebisseimer                |
-| repository    | repo               | Lagerstätte                |
+| repository    | repo               | Depot                      |
 | branch        | branch             | Zweig                      |
-| commit        | commit             | Übergabe                   |
+| commit        | commit             | Einbuchung                 |
 | log           | log                | Tagebuch                   |
 | pull request  | pull request       | Ziehbegehren               |
 | merge request | merge request      | Antrag auf Zusammenführung |
@@ -59,7 +59,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
 
-    - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
+    - Dafür habe ich ein neues Depot eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
     - Nein, drücke das gleich zum Meister im Ursprung!
     
@@ -87,13 +87,13 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch
     git config --global alias.pfusch 'push --force'
     git config --global alias.zweig branch
     git config --global alias.verzweige branch
-    git config --global alias.uebergib commit
+    git config --global alias.buche-ein commit
     git config --global alias.erde rebase
     git config --global alias.unterscheide diff
     git config --global alias.vereinige merge
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
-    git config --global alias.nimm checkout
+    git config --global alias.buche-aus checkout
     git config --global alias.tagebuch log
     git config --global alias.zustand status
     git config --global alias.beschuldige blame
