@@ -37,10 +37,10 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | Substantiv    | Aktueller Gebrauch | Vorschlag                  |
 |---------------|--------------------|----------------------------|
 | git           | git                | Depp                       |
-| github        | github             | Deppendrehkreuz            |
+| github        | github             | Deppennabe                 |
 | gitlab        | gitlab             | Deppenlabor                |
 | gitea         | gitea              | Deppentee                  |
-| blame         | blame              | Deppenbeschuldigung        |
+| blame         | blame              | Beschuldigung              |
 | bitbucket     | bitbucket          | Gebisseimer                |
 | repository    | repo               | Depot                      |
 | branch        | branch             | Zweig                      |

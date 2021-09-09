@@ -13,7 +13,7 @@ Do sen zwoi Tabelle mit Vorschläg wia mer schdattdesse schwätze ko.
 | Verb        | Gschwätz grade     | Vorschlag             |
 |-------------|--------------------|-----------------------|
 | init        | initten            | uffmache              |
-| add         | adden              | drzuado               |
+| add         | adden              | drzudo                |
 | pull        | pullen             | ziage                 |
 | push        | pushen             | drigge                |
 | clone       | clonen             | kobiere               |
@@ -47,6 +47,7 @@ Do sen zwoi Tabelle mit Vorschläg wia mer schdattdesse schwätze ko.
 | tag           | tag                | Pungt                |
 | origin        | origin             | Urschbrung           |
 | master        | master             | Meischdr             |
+| main          | main               | Daez                 |
 
 ## Beischbiele
 
