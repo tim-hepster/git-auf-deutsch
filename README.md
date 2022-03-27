@@ -37,7 +37,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | Substantiv    | Aktueller Gebrauch | Vorschlag                  |
 |---------------|--------------------|----------------------------|
 | git           | git                | Depp                       |
-| github        | github             | Deppennabe                 |
+| github        | github             | Deppenzentrum              |
 | gitlab        | gitlab             | Deppenlabor                |
 | gitea         | gitea              | Deppentee                  |
 | blame         | blame              | Beschuldigung              |
@@ -57,7 +57,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppenzentrum drücken?
 
     - Dafür habe ich ein neues Depot eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
 
@@ -71,7 +71,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
     - Am besten wir picken uns die Rosinen aus dem Hauptzweig heraus.
 
-    - Gabeln Sie auf Deppendrehkreuz!
+    - Gabeln Sie im Deppenzentrum!
     
     - Wenn du fertig bist, dann kannst du das Ziehbegehren sofort quetschen und zusammenführen.
 
