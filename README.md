@@ -74,6 +74,8 @@ Hier noch einige (zum Teil nicht ganz ernste)
     - Gabeln Sie im Deppenzentrum!
     
     - Wenn du fertig bist, dann kannst du das Ziehbegehren sofort quetschen und zusammenführen.
+    
+    - Im Deppentagebuch kannst du nachlesen, wer zuletzt eine gequetschte Einbuchung zusammengeführt hat.
 
 ## Depp auf Deutsch anwenden
 
