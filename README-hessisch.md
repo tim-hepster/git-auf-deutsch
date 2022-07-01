@@ -77,7 +77,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
 ## Depp uff Hessisch anwende
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch in Deine Konsole bringt. Da Depp keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
+Wer n nächste Schritt waage will, hier ne Anleidung, die Depp uff Hessisch in dei Konsole bringt. Weil Depp kaane Umlaute zulässt, müsse mir in de Befehle leider druf verzichte. Nimm folchende Ännerunge in daaner `~/.gitconfig` vor:
 
     git config --global alias.machuff init
     git config --global alias.machnach clone
@@ -98,7 +98,7 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch
     git config --global alias.zustand status
     git config --global alias.beschuldiche blame
 
-Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
+Und füche de folchende Zeile zu daaner `~/.bashrc` (oder was aach immer uff deinem Rechner läuft) hinzu:
 
     alias depp=git
 https://github.com/danielauener/git-auf-deutsch.git
