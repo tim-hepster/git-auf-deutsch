@@ -1,7 +1,7 @@
 # Git uff Hessisch
 
 Die tächliche Kommunikation in deutsche Endwicklerteams, die `git`
-(üwwersetzt: `Depp`) verwende, ist meist des feinste Denglish.
+(üwwersetzt: `Hannebambel`) verwende, ist meist des feinste Denglish.
 _"Kannste bidde pullen"_ oder _"Haste gepusht"_ sei nur zwo
 der seltsame Konstruktione.
 
@@ -36,7 +36,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag                  |
 |---------------|--------------------|----------------------------|
-| git           | git                | Depp                       |
+| git           | git                | Hannebambel                |
 | github        | github             | Deppedrehkreuz             |
 | gitlab        | gitlab             | Deppelabor                 |
 | gitea         | gitea              | Deppetee                   |
@@ -75,9 +75,9 @@ Hier noch einige (zum Teil nicht ganz ernste)
     
     - Wenn de fertich seist, dann kannste des Ziehbegehren direkt quetsche un zusammeschmeiße.
 
-## Depp uff Hessisch anwende
+## Hannebambel uff Hessisch anwende
 
-Wer n nächste Schritt waage will, hier ne Anleidung, die Depp uff Hessisch in dei Konsole bringt. Weil Depp kaane Umlaute zulässt, müsse mir in de Befehle leider druf verzichte. Nimm folchende Ännerunge in daaner `~/.gitconfig` vor:
+Wer n nächste Schritt waage will, hier ne Anleidung, die Hannebambel uff Hessisch in dei Konsole bringt. Weil Hannebambel kaane Umlaute zulässt, müsse mir in de Befehle leider druf verzichte. Nimm folchende Ännerunge in daaner `~/.gitconfig` vor:
 
     git config --global alias.machuff init
     git config --global alias.machnach clone
@@ -100,5 +100,5 @@ Wer n nächste Schritt waage will, hier ne Anleidung, die Depp uff Hessisch in d
 
 Und füche de folchende Zeile zu daaner `~/.bashrc` (oder was aach immer uff deinem Rechner läuft) hinzu:
 
-    alias depp=git
+    alias hannebambel=git
 https://github.com/danielauener/git-auf-deutsch.git
