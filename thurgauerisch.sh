@@ -17,4 +17,4 @@ git config --local alias.pflueckoepfel cherry-pick
 git config --local alias.buechuus checkout
 git config --local alias.tagebuech log
 git config --local alias.zuestand status
-git config --local alias.beschuldige blame
+git config --local alias.beschuldig blame
