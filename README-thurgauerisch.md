@@ -80,23 +80,32 @@ Da no es paar wiiteri (üsserst ernsti):
 Die wo de nächst Schritt mache wönd, chöned die Ahleitig bruche, wo de Totsch uf Thurgauerisch i ihri Konsole bringt. Will de Totsch kei Umluut zuelaht, müend mir i de einzelne Befehl leider druf verzichte. Mach die Änderige i dis `~/.gitconfig` ine:
 
     git config --global alias.ahfange init
-    git config --global alias.machnah clone
-    git config --global alias.zieh pull
     git config --global alias.tuedezue add
+    git config --global alias.beschuldig blame
+    git config --global alias.zieh pull
     git config --global alias.druck push
-    git config --global alias.pfudle 'push --force'
-    git config --global alias.zwiigli branch
+    git config --global alias.machnah clone
+    git config --global alias.hol fetch
     git config --global alias.zwiigab branch
     git config --global alias.buechiih commit
+    git config --global alias.eich rebase
+    git config --global alias.erd rebase
     git config --global alias.gahufwiifelde rebase
-    git config --global alias.unterscheide diff
+    git config --global alias.vergliich diff
     git config --global alias.tuezemme merge
     git config --global alias.versorg stash
     git config --global alias.markier tag
+    git config --global alias.pflueckoepfel cherry-pick
+    git config --global alias.pflueckhimbeeri cherry-pick
     git config --global alias.buechuus checkout
+    git config --global alias.quaetsch 'merge --squash'
+    git config --global alias.pfudle 'push --force'
+    git config --global alias.beschuldigung blame
+    git config --global alias.zwiigli branch
     git config --global alias.tagebuech log
+    git config --global alias.versteck stash
     git config --global alias.zuestand status
-    git config --global alias.beschuldige blame
+    git config --global alias.markierig tag
 
 Und wenn's die Ziile no i dis `~/.bashrc` (oder wie die Datei au immer heisst uf dim Betriebssystem) tuesch:
 
