@@ -13,6 +13,7 @@ git config --local alias.unterscheide diff
 git config --local alias.tuezemme merge
 git config --local alias.versorg stash
 git config --local alias.markier tag
+git config --local alias.pflueckoepfel cherry-pick
 git config --local alias.buechuus checkout
 git config --local alias.tagebuech log
 git config --local alias.zuestand status
